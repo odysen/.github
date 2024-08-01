@@ -26,8 +26,6 @@
   "></a>
 </p>
 
-&nbsp;
-
 <p align="center">
   Odysen is a project involving an Android ROM and a Desktop Linux
   distribution meant to make your life easier, and experience more seamless.
